@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm a Full Stack Developer and AWS Certified Developer with 7+ years of experience in software development, DevOps, and cloud-native applications. I specialize in building scalable, high-performance systems using Java, Go, Spring Boot, and AWS. Passionate about microservices architecture, distributed systems, and automation, I strive to deliver efficient and optimized solutions that drive business growth.
 
 <!--
 **Shivakumar980/Shivakumar980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
