@@ -57,7 +57,7 @@ I'm a **Full Stack Developer**, **Generative AI Engineer**, and **AWS Certified 
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivakumar_2024) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivakumar2024/) 
 - 📧 Email: shivaamachidi@gmail.com 
 
 Thanks for visiting! 👨‍💻✨
