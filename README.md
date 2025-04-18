@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Shivakumar
 
-I'm a **Full Stack Developer**, **Generative AI Engineer**, and **AWS Certified Developer** with **7+ years** of experience building scalable software solutions, cloud-native applications, and intelligent AI systems.
+I'm a **Generative AI Engineer**, **Full Stack Developer**,  and **AWS Certified Developer** with **7+ years** of experience building scalable software solutions, cloud-native applications, and intelligent AI systems.
 
 🔍 My primary focus is on **Generative AI** — building smart applications powered by LLMs, RAG pipelines, agentic workflows, and natural language interfaces.
 
