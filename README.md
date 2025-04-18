@@ -48,7 +48,7 @@ I'm a **Full Stack Developer**, **Generative AI Engineer**, and **AWS Certified 
 
 ---
 
-### ✅ Evaluation & Observability Frameworks
+### ✅ AI Evaluation & Observability Frameworks
 
 ![Ragas](https://img.shields.io/badge/Ragas-Evaluation-lightgrey?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-Debugger-6F42C1?style=for-the-badge)
