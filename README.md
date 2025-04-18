@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Shivakumar
+# Shivakumar Machidi
 
 I'm a **Generative AI Engineer**, **Full Stack Developer**,  and **AWS Certified Developer** with **7+ years** of experience building scalable software solutions, cloud-native applications, and intelligent AI systems.
 
@@ -89,12 +89,15 @@ I'm a **Generative AI Engineer**, **Full Stack Developer**,  and **AWS Certified
 
 ---
 
-## 🎯 Goals
-- Build smarter tools with AI and automation
-- Explore agentic systems and human-AI collaboration
-- Contribute to open-source AI and cloud ecosystems
+![Shivakumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivakumar980&show_icons=true&theme=radical&hide=issues)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar980&layout=compact&theme=radical&hide=html)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivakumar980&theme=radical&hide_border=false)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shivakumar980&theme=radical&no-bg=true&no-frame=true&margin-w=5)
+
+
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivakumar2024/) 
