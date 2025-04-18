@@ -91,8 +91,6 @@ I'm a **Generative AI Engineer**, **Full Stack Developer**,  and **AWS Certified
 
 ![Shivakumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivakumar980&show_icons=true&theme=radical&hide=issues)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakumar980&layout=compact&theme=radical&hide=html)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shivakumar980&theme=radical&hide_border=false)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shivakumar980&theme=radical&no-bg=true&no-frame=true&margin-w=5)
