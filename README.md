@@ -82,23 +82,16 @@ I'm a **AI Engineer**, **Full Stack Developer**,  and **AWS Certified Developer*
 ---
 ## 🤖 Recent AI Projects
 
-### 💬 Conversation AI with RAG
-- Complete Conversational AI assistant with:
-  - RAG for dynamic document-based responses
-  - User **sessions**, **context memory**
-  - Websockets for low latency interactions
-  - FastAPI + backend
-  - React (Vite) + WebSocket frontend
+##  Model Finetuning with QLora
+##  Model Deployment on AWS EKS with NVIDIA GPUs
+##  GraphRAG agentic application for Research with Neo4j, Qdrant
+##  DogSearch with similarity search on RAG architecture
+##  Conversation AI with RAG with coversational history, sessions, websockets, React
+##  Topic classifaction with BERT and Topic Modelling
+##  Multi Agent AI application with MCP and LangGraph
 
-### 📚 Knowledge Article Generator using BERT
-- Scrapes content from websites or documents
-- Extracts key points using BERT
-- Generates Salesforce Knowledge Articles with **tags** and **summaries**
 
-### 🧠 Personal Assistant with LangGraph Agentic AI
-- Agentic system with YouTube content understanding
-- Interacts with a **natural language-accessible relational database**
-- Built with LangGraph and conversational memory
+
 
 ---
 
