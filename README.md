@@ -6,23 +6,36 @@ I'm a **AI Engineer**, **Full Stack Developer**,  and **AWS Certified Developer*
 
 ---
 
-## 🚀 What I Specialize In
+🚀 What I Specialize In
+--------------------------
+🤖 Machine Learning & AI
 
-### 💡 Generative AI & NLP
-- 🧠 Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), LangChain
-- 🤖 LangGraph-based Agentic AI and multi-agent orchestration
-- 🧾 BERT for semantic search and summarization
-- 🧠 Context memory, conversational pipelines, embeddings, and vector stores
-- 📊 AI-assisted data interaction through natural language
+🧠 Deep Learning: Transformer architectures, Vision Transformers (ViT), YOLOv8
+📊 Model Training & Fine-tuning: QLoRA, LoRA, Parameter-Efficient Fine-Tuning (PEFT)
+🎯 Computer Vision: Object detection, image classification, hybrid model architectures
+📈 MLOps: Model deployment, monitoring (Prometheus, Grafana), AWS EKS with GPU support
+🔍 Vector Databases: Pinecone, Qdrant, similarity search and retrieval systems
 
-### 🔧 Full Stack Engineering
-- ⚙️ Java, Go, Python
-- 🔄 Spring Boot, FastAPI
-- 🎨 React (Vite), WebSockets
+💡 Generative AI & NLP
 
-### ☁️ Cloud & DevOps
-- ☁️ AWS (Certified)
-- 🐳 Docker, CI/CD
+🧠 Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), LangChain
+🤖 LangGraph-based Agentic AI and multi-agent orchestration
+🧾 BERT for semantic search and summarization
+🧠 Context memory, conversational pipelines, embeddings, and vector stores
+📊 AI-assisted data interaction through natural language
+🎓 Advanced RAG: Self-RAG, Corrective RAG, Graph RAG with Neo4j, cross-encoder reranking
+
+🔧 Full Stack Engineering
+
+⚙️ Java, Go, Python
+🔄 Spring Boot, FastAPI
+🎨 React (Vite), WebSockets
+
+☁️ Cloud & DevOps
+
+☁️ AWS (Certified), EKS, containerization
+🐳 Docker, Kubernetes, CI/CD
+🧰 Infrastructure automation & system optimization
 - 🧰 Infrastructure automation & system optimization
 
 ---
