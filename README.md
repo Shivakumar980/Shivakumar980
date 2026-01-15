@@ -83,7 +83,7 @@ I'm a **AI Engineer**, **Full Stack Developer**,  and **AWS Certified Developer*
 ## 🤖 Recent AI Projects
 
 ##  Model Finetuning with QLora
-##  Model Deployment on AWS EKS with NVIDIA GPUs
+##  Llama-3 7B LLM Deployment on AWS EKS with NVIDIA GPUs
 ##  GraphRAG agentic application for Research with Neo4j, Qdrant
 ##  DogSearch with similarity search on RAG architecture
 ##  Conversation AI with RAG with coversational history, sessions, websockets, React
